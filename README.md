@@ -18,7 +18,7 @@
 # Guide
 
 1. <a href="#Description">Description</a>
-1. <a href="#Resources">Resources</a>
+1. <a href="#Deploy">Deploy</a>
 1. <a href="#Tech-used">Tech used</a>
 1. <a href="#Project-structure">Project Structure</a>
 1. <a href="#Instructions">Instructions</a>
@@ -28,11 +28,11 @@
 
 Count the total transactions on your Amazon account
 
-<h2 id="Resources">
-  Resources
+<h2 id="Deploy">
+  Deploy
 </h2>
 
--
+Google chrome extension link: 
 
 <h2 id="Tech-used">
   Tech used <a href="#top">↑ Back to Top</a>
